@@ -24,7 +24,7 @@ import {
 import "./App.css";
 
 // BACKEND API URL
-const API_URL = "http://localhost:5000/api/donors";
+const API_URL = "https://blood-donation-wl1l.vercel.app/api/donors";
 
 // WEBSITE OWNER WHATSAPP
 const OWNER_WHATSAPP = "923341448063";
